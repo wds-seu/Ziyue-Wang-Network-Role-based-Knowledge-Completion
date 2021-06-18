@@ -1,0 +1,32 @@
+Traceback (most recent call last):
+  File "process_stringneigh.py", line 66, in <module>
+    f = open('../data/aneigh_string/' + str(t) + '.txt', "r")
+FileNotFoundError: [Errno 2] No such file or directory: '../data/aneigh_string/92134.txt'
+Traceback (most recent call last):
+  File "process_stringneigh.py", line 72, in <module>
+    seq = seq + walks
+NameError: name 'seq' is not defined
+Traceback (most recent call last):
+  File "process_numberneigh.py", line 59, in <module>
+    files = os.listdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/yangqingqing/fsdownload/aneigh_number_union'
+/gpfssan1/home/xiangzhang/.linuxbrew/Cellar/python/2.7.13_1/lib/python2.7/site-packages/sklearn/utils/validation.py:590: DataConversionWarning: Data with input dtype |S1 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, DataConversionWarning)
+/gpfssan1/home/xiangzhang/.linuxbrew/Cellar/python/2.7.13_1/lib/python2.7/site-packages/sklearn/utils/validation.py:590: DataConversionWarning: Data with input dtype |S2 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, DataConversionWarning)
+/gpfssan1/home/xiangzhang/.linuxbrew/Cellar/python/2.7.13_1/lib/python2.7/site-packages/sklearn/utils/validation.py:590: DataConversionWarning: Data with input dtype |S1 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, DataConversionWarning)
+/gpfssan1/home/xiangzhang/.linuxbrew/Cellar/python/2.7.13_1/lib/python2.7/site-packages/sklearn/utils/validation.py:590: DataConversionWarning: Data with input dtype |S2 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, DataConversionWarning)
+/gpfssan1/home/xiangzhang/.linuxbrew/Cellar/python/2.7.13_1/lib/python2.7/site-packages/sklearn/utils/validation.py:590: DataConversionWarning: Data with input dtype |S1 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, DataConversionWarning)
+/gpfssan1/home/xiangzhang/.linuxbrew/Cellar/python/2.7.13_1/lib/python2.7/site-packages/sklearn/utils/validation.py:590: DataConversionWarning: Data with input dtype |S1 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, DataConversionWarning)
+/gpfssan1/home/xiangzhang/.linuxbrew/Cellar/python/2.7.13_1/lib/python2.7/site-packages/sklearn/utils/validation.py:590: DataConversionWarning: Data with input dtype |S2 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, DataConversionWarning)
+/gpfssan1/home/xiangzhang/.linuxbrew/Cellar/python/2.7.13_1/lib/python2.7/site-packages/sklearn/utils/validation.py:590: DataConversionWarning: Data with input dtype |S1 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, DataConversionWarning)
+/gpfssan1/home/xiangzhang/.linuxbrew/Cellar/python/2.7.13_1/lib/python2.7/site-packages/sklearn/utils/validation.py:590: DataConversionWarning: Data with input dtype |S2 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, DataConversionWarning)
+/gpfssan1/home/xiangzhang/.linuxbrew/Cellar/python/2.7.13_1/lib/python2.7/site-packages/sklearn/utils/validation.py:590: DataConversionWarning: Data with input dtype |S3 was converted to float64 by MinMaxScaler.
+  warnings.warn(msg, DataConversionWarning)
