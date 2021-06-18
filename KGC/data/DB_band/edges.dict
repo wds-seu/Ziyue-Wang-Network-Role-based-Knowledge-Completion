@@ -1,0 +1,16 @@
+0	http://dbpedia.org/ontology/alias
+1	http://xmlns.com/foaf/0.1/name
+2	http://dbpedia.org/ontology/background
+3	http://dbpedia.org/ontology/associatedMusicalArtist
+4	http://dbpedia.org/ontology/activeYearsEndYear
+5	http://dbpedia.org/ontology/recordLabel
+6	http://dbpedia.org/ontology/hometown
+7	http://dbpedia.org/ontology/genre
+8	http://dbpedia.org/ontology/imdbId
+9	http://dbpedia.org/ontology/formerBandMember
+10	http://dbpedia.org/ontology/soundRecording
+11	http://www.w3.org/2002/07/owl#differentFrom
+12	http://dbpedia.org/ontology/bandMember
+13	http://dbpedia.org/ontology/associatedBand
+14	http://www.w3.org/2000/01/rdf-schema#seeAlso
+15	http://dbpedia.org/ontology/activeYearsStartYear
