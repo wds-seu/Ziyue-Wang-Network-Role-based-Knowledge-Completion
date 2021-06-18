@@ -1,0 +1,58 @@
+Traceback (most recent call last):
+  File "findneighbors.py", line 10, in <module>
+    from matplotlib import pyplot as plt
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/pyplot.py", line 115, in <module>
+    _backend_mod, new_figure_manager, draw_if_interactive, _show = pylab_setup()
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/backends/__init__.py", line 62, in pylab_setup
+    [backend_name], 0)
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/backends/backend_qt5agg.py", line 15, in <module>
+    from .backend_qt5 import (
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/backends/backend_qt5.py", line 19, in <module>
+    import matplotlib.backends.qt_editor.figureoptions as figureoptions
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/backends/qt_editor/figureoptions.py", line 20, in <module>
+    import matplotlib.backends.qt_editor.formlayout as formlayout
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/backends/qt_editor/formlayout.py", line 54, in <module>
+    from matplotlib.backends.qt_compat import QtGui, QtWidgets, QtCore
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/backends/qt_compat.py", line 158, in <module>
+    raise ImportError("Failed to import any qt binding")
+ImportError: Failed to import any qt binding
+Traceback (most recent call last):
+  File "findneighbors.py", line 10, in <module>
+    from matplotlib import pyplot as plt
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/pyplot.py", line 115, in <module>
+    _backend_mod, new_figure_manager, draw_if_interactive, _show = pylab_setup()
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/backends/__init__.py", line 62, in pylab_setup
+    [backend_name], 0)
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/backends/backend_qt5agg.py", line 15, in <module>
+    from .backend_qt5 import (
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/backends/backend_qt5.py", line 19, in <module>
+    import matplotlib.backends.qt_editor.figureoptions as figureoptions
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/backends/qt_editor/figureoptions.py", line 20, in <module>
+    import matplotlib.backends.qt_editor.formlayout as formlayout
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/backends/qt_editor/formlayout.py", line 54, in <module>
+    from matplotlib.backends.qt_compat import QtGui, QtWidgets, QtCore
+  File "/usr/softwares/anaconda3/lib/python3.7/site-packages/matplotlib/backends/qt_compat.py", line 158, in <module>
+    raise ImportError("Failed to import any qt binding")
+ImportError: Failed to import any qt binding
+Traceback (most recent call last):
+  File "findneighbors.py", line 16, in <module>
+    from interval import Interval
+ModuleNotFoundError: No module named 'interval'
+Traceback (most recent call last):
+  File "findneighbors.py", line 182, in <module>
+    find_neighbors(t)
+  File "findneighbors.py", line 119, in find_neighbors
+    s = set(res_array[0])
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "findneighbors.py", line 182, in <module>
+    find_neighbors(t)
+  File "findneighbors.py", line 119, in find_neighbors
+    s = set(res_array[0])
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "findneighbors.py", line 184, in <module>
+    find_neighbors(t)
+  File "findneighbors.py", line 65, in find_neighbors
+    data_new.append(list(map(float, data[i, :])))
+ValueError: could not convert string to float: '-0044-03-15'
