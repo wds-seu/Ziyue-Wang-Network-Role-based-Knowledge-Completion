@@ -76,7 +76,7 @@ Our core code is in the folder called entity_profiling-master. It contains 3 par
 The rest of the files is used to process the data information in the sqlite table. For example,dividing labels into string type labels and numeric type labels.
 
 
-###**Entity_Profiles/src/main/java/**
+### Entity_Profiles/src/main/java/
 
 - `RDFDatabase.java` Parsing raw data(eg:.rdf/.nt/.ttl).
 
