@@ -1,0 +1,6 @@
+model_checkpoint_path: "GcnBlock-12"
+all_model_checkpoint_paths: "GcnBlock-8"
+all_model_checkpoint_paths: "GcnBlock-9"
+all_model_checkpoint_paths: "GcnBlock-10"
+all_model_checkpoint_paths: "GcnBlock-11"
+all_model_checkpoint_paths: "GcnBlock-12"
