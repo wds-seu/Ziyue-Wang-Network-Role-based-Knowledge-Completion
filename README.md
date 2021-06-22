@@ -105,3 +105,6 @@ The rest of the files is used to process the data information in the sqlite tabl
 - `attach_tags.java` Label the entity after creating the final tag set.
 
 ### KGC
+- Requirements
+
+TensorFlow (1.4)
