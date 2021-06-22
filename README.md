@@ -105,6 +105,12 @@ The rest of the files is used to process the data information in the sqlite tabl
 - `attach_tags.java` Label the entity after creating the final tag set.
 
 ### KGC
-- Requirements
+- Requirements:  
+-TensorFlow (1.4)
 
-TensorFlow (1.4)
+
+- `encoders` uses 2-layer GCN as encoder
+- `decoders` uses DisMult / Complex / nonlinear transform as decoder
+- `common` contains the process of files and data
+
+To run the whole model, you can execute `train.py`.
